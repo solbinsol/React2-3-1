@@ -1,4 +1,20 @@
 # 2023/09/07
+## ECMAScript 파이프라인 연산자
+- 파이프라인  / 공식적으로 채택되지 않은 연산자 
+- 사용하기 위해선 바벨 플러그인 설치
+- .babelrc 파일 수정
+```
+    {
+        "presets":["next/babel],
+        "plugins": [
+            
+        ]
+    }
+```
+## CSS용 프리프로세스
+- Sass (부트스트랩) 추천
+- Less (부트스트랩 초기버전)
+
 ## Next.js 프로젝트 생성
 ```
 - npx create-react-app test1 
