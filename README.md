@@ -5,9 +5,10 @@
 
     return(
         props:{
-            user... 
-        }
-    )
+            user:data, 
+        },
+    );
+
 ```
 
 # 2023/10/26
