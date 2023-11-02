@@ -1,4 +1,15 @@
 # 201930302 김솔빈
+# 2023/11/02
+```js
+    const {data} = await axios.get('${process.env.API.ENDPOINT}/api/04/user`);
+
+    return(
+        props:{
+            user... 
+        }
+    )
+```
+
 # 2023/10/26
 ## 메타데이터
 - 눈에는 보이지 않지만 사진이 가지고 있는 기타의 유용한 정보들
