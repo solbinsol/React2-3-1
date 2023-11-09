@@ -1,4 +1,9 @@
 # 201930302 김솔빈
+# 2023/11/09
+## 코드 구성과 데이터 불러오기 
+- 디렉터리 구조 구성법
+- 외부 REST API 및 GraphQL API 를 사용하는 방법도 있음
+
 # 2023/11/02
 ```js
     const {data} = await axios.get('${process.env.API.ENDPOINT}/api/04/user`);
