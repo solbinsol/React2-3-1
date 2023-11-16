@@ -1,3 +1,6 @@
+import '@/styles/globals.css';
+//새로 삽입함
+
 import Head from 'next/head';
 import { ApolloProvider } from '@apollo/client';
 import { useApollo } from '../lib/apollo';
