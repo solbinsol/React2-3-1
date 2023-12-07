@@ -1,18 +1,18 @@
 # 201930302 김솔빈
 
 # 2023/12/07
-## UI 프레임워크
+### UI 프레임워크
 - ui 라이브러리 , 프레임워크 ,유틸리티 기능이 필수는 x
 - 생산성 향상 및 ui 일관성 유지
-## Chakra UI
+### Chakra UI
 - 타입스키립트로 작성되어 있음
 - 다크모드 라이트모드 모두 지원
 - 현재 사용하는 컬러모드 확인 가능 / useColorMode
-## TailwindCss
+### TailwindCss
 - css 규칙만 제공
 - 자바스크립트 모듈이나 리액트 컴포넌트 제공 x 직접 만들어야함
 - 변수값을 조정해 개성있는 디자인 가능 , 디자인 자유도 높음
-## sass 
+### sass 
 css 모듈 사용법과 동일 , 확장자가 다름 . global.module.css
 - 들여쓰기로 구분 세미클론 x
 - 인스톨 필요 npm install sass
@@ -21,7 +21,7 @@ css 모듈 사용법과 동일 , 확장자가 다름 . global.module.css
 - sass 환경설정 필요 next config.js 
  - sass option 설정
 
- # Headless UI
+### Headless UI
 
 
  ## 커스텀 서버가 필요한 경우
